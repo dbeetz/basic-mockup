@@ -7,7 +7,7 @@
 
 html,
 body {
-	margin: 0;
+	margin: 5px;
 }
 
 .container {
@@ -17,6 +17,7 @@ body {
 
 .clear {
 	clear: both;
+	background-color: #87CEFA;
 }
 
 /***
@@ -41,3 +42,18 @@ body { width: 100%;}
 /********************************************
 * Your CSS rules go down here
 ********************************************/
+
+.instructions {
+	border: 5px solid #C1C1C1;
+}
+
+.pull-right {
+	float: right;
+}
+
+.title {
+	background-color: #87CEFA;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}

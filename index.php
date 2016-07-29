@@ -9,7 +9,9 @@
 		<div class="sfooter-content">
 			<header>
 				<div class="container">
+					<div class="title">
 					<h1>Dylan's Profe$$ional Web Page</h1>
+					</div>
 				</div>
 			</header>
 			<main>
