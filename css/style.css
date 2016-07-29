@@ -7,17 +7,21 @@
 
 html,
 body {
-	margin: 0;
+	margin: 0px;
 	font-family: sans-serif;
+
 }
 
 .container {
-	margin: 30px auto;
+	margin: 0px auto;
 	width: 1170px;
 }
 
 .clear {
 	clear: both;
+	background-color: #87CEFA;
+	height: 175px;
+	padding: 30px;
 }
 
 /***
@@ -45,12 +49,20 @@ body { width: 100%;}
 ********************************************/
 .title {
 	background-color: #87CEFA;
-	width: 100%;
+	width: 100%;.
+	margin-left: 30px;
 	padding: 1px;
+	text-align: center;
 }
 
 .instructions {
 	border: 5px solid #C1C1C1;
+	padding: 15px;
+	margin: 30px;
+}
+
+.cats {
+	margin: 30px;
 }
 
 .pull-left {
@@ -62,7 +74,8 @@ body { width: 100%;}
 .clear {
 	background-color: #87CEFA;
 	height: 175px;
-	padding: 30px;
+	padding: 20px;
+	margin: 30px;
 
 }
 
@@ -77,5 +90,5 @@ body { width: 100%;}
 	width: 100%;
 	height: 75px;
 	font-size: 12px;
-	text-align: left;
+	text-align: center;
 }
