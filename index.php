@@ -8,10 +8,8 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header>
-				<div class="container">
-					<div class="title">
+				<div class="title">
 					<h1>Dylan's Profe$$ional Web Page</h1>
-					</div>
 				</div>
 			</header>
 			<main>
@@ -35,13 +33,12 @@
 						<img class="pull-right" src="img/janeway.jpeg" alt="captain janeway is fierce" />
 						<h2>Shields up!</h2>
 						<p>I recommend we transfer power to phasers and arm the photon torpedoes. Something strange on the detector circuit. The weapons must have disrupted our communicators. You saw something as tasty as meat, but inorganically materialized out of patterns used by our transporters. Captain, the most elementary and valuable statement in science, the beginning of wisdom, is 'I do not know.' All transporters off.</p>
-						<div class="clear"></div>
 					</section>
 				</div>
 			</main>
 		</div>
 		<footer>
-			<div class="container">
+			<div class="resistance">
 				<p>Resistance is futile!</p>
 			</div>
 		</footer>
