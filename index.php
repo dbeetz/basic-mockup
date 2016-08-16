@@ -8,8 +8,8 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<header>
-				<div class="banner">
-					<h1 class="title">Dylan's Profe$$ional Web Page</h1>
+				<div class="container">
+					<h1>Dylan's Profe$$ional Web Page</h1>
 				</div>
 			</header>
 			<main>
@@ -40,7 +40,7 @@
 			</main>
 		</div>
 		<footer>
-			<div class="resistance">
+			<div class="container">
 				<p>Resistance is futile!</p>
 			</div>
 		</footer>
